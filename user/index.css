@@ -1,0 +1,29 @@
+/* body{ */
+    /* background-image: url(../images/pexels-billsalazar-20015263.jpg); */
+    /* background-repeat: no-repeat; */
+   /* background-size: cover; */
+   /* height: auto; */
+/* } */
+
+
+*{
+    background: #97c0e7;
+}
+#login-content{
+    margin-top: 100px;
+
+}
+
+.btn {
+    margin-right: 30px;
+  }
+
+
+
+
+
+
+
+
+
+
